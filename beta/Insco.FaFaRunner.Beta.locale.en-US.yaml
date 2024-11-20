@@ -14,10 +14,11 @@ PackageUrl: https://www.fafarunner.com
 License: MIT
 LicenseUrl: https://raw.githubusercontent.com/fafarunner/fafarunner/main/LICENSE
 Copyright: Copyright (c) 2023 kjxbyz
-ShortDescription: A game developed using flame and bonfire.
-Description: A game developed using flame and bonfire.
+ShortDescription: Enjoy smooth gameplay, stunning graphics, and endless fun.
+Description: Enjoy smooth gameplay, stunning graphics, and endless fun.
 Tags:
   - fafarunner
+  - fafa runner
   - game
   - flutter
   - flame
